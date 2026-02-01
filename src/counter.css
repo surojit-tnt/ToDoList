@@ -1,0 +1,39 @@
+.count_display{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 100px;
+    color: rgb(0, 0, 0)
+}
+h1{
+    text-align: center;
+    margin-bottom: 10px;
+    color: rgba(255, 252, 252, 0.816);
+}
+.counter_container{
+    background-color: rgb(98, 110, 41);
+    width: 420px;
+    height: 300px;
+    border-radius: 18px;
+    box-shadow: 5px 5px 16px 4px rgba(0,0,0,0.2);
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.btn_container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+button{
+    background-color: #269fc0;
+    box-shadow:  2px 2px 8px rgba(0,0,0,0.6);
+    border: none;
+}
+
+
+
+
+
