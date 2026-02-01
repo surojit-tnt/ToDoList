@@ -8,8 +8,7 @@ function App() {
   return (
     
     <>
-      {/* <ToDoList/> */}
-      <colorPicker />
+      <ToDoList/>
    
 
 
